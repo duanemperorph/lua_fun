@@ -1,9 +1,9 @@
 TODOS
 
 * Add ability to include planetCenter in nav point
-* Engineering panel 
 * planet distance
 * crusie mode dot product
+* Engineering panel 
 
 * fix atmo landing braking
 * stickers?
