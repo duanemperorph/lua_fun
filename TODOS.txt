@@ -2,13 +2,13 @@ TODOS
 
 * Hide target vel
 * Fix spinning
-* Add mV
+* Check Rando braking while approach
 
 ** allow for spacial coords for surface dest
 ** Radar alt / hover slam
 
-*** Rando braking while approach
 *** fix descent / atmo landing braking
 *** check brakes
 *** fix crusie mode dot product
+*** Add mV
 *** stickers?
