@@ -1,5 +1,14 @@
 TODOS
 
-* fix crusie mode dot product
-* fix atmo landing braking
-* stickers?
+* Hide target vel
+* Fix spinning
+* Add mV
+
+** allow for spacial coords for surface dest
+** Radar alt / hover slam
+
+*** Rando braking while approach
+*** fix descent / atmo landing braking
+*** check brakes
+*** fix crusie mode dot product
+*** stickers?
