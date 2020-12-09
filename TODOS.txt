@@ -1,14 +1,15 @@
 TODOS
 
+* Adjustable rocket min vel
 * Hide target vel
+
 * Fix spinning
 * Check Rando braking while approach
 
-** allow for spacial coords for surface dest
 ** Radar alt / hover slam
 
+*** allow for spacial coords for surface dest
+*** ETA nav display
 *** fix descent / atmo landing braking
-*** check brakes
 *** fix crusie mode dot product
-*** Add mV
 *** stickers?
