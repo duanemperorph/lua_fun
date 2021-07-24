@@ -1,1 +1,1 @@
-just for fun
+DUAL UNIVERSE ROCKET SHIP
